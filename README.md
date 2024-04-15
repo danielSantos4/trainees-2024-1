@@ -3,7 +3,7 @@
 - Em primeiro lugar, bom momento a todos! Sejam bem-vindos ao time de projetos da Comp!
 - Este é um desafio para que vocês possam se familiarizar com o GitHub e com o processo de contribuição em um repositório open-source.
 - Antes de começar a fazer o desafio, você **precisa** tê-lo configurado em sua máquina (ou em outra que você for utilizar para realizar o desafio), para isso, você deve ter aprendido o [básico de Git e GitHub no Athena](https://athena.compjunior.com.br/trilhas/introducao/#hora-de-botar-a-m%C3%A3o-na-massa).
-- O objetivo é que vocês adicionem seus nomes e links para seus perfis no GitHub no arquivo `trainne.md` seguindo o exemplo abaixo:
+- O objetivo é que vocês adicionem seus nomes e links para seus perfis no GitHub no arquivo `trainee.md` seguindo o exemplo abaixo:
 
 ```markdown
 
@@ -15,13 +15,13 @@
 - Clone o `fork` do repositório na sua máquina
 
 ```bash
-git clone git@github.com:usuario_teste/fork_do_docs.git
+git clone git@github.com:usuario_teste/fork-2024-1.git
 ```
 
 - Entre na pasta do repositório clonado:
 
 ```bash
-cd fork_do_docs
+cd fork-2024-1
 ```
 
 - Crie uma branch:
@@ -31,7 +31,7 @@ git checkout -b feature/adicionando-usuario_teste
 ```
 
 - Agora você criou uma branch e trocou para ela automaticamente, agora é hora de fazer suas alterações:
-- No arquivo `trainne.md` adicione seu nome com seu link para o seu perfil no GitHub abaixo do título do período que você ***ingressou***:
+- No arquivo `trainee.md` adicione seu nome com seu link para o seu perfil no GitHub abaixo do título do período que você ***ingressou***:
 
 ```markdown
 [...]
