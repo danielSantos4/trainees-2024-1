@@ -9,3 +9,4 @@
 - [João Paulo Chaves](https://github.com/joaopchav)
 - [Luiza Garcia](https://github.com/Luizagso)
 - [Isac Gonçalves Cunha](https://github.com/Caquizeraa)
+- [Vinícius Souza Arantes](https://github.com/vinicius-arantes)
