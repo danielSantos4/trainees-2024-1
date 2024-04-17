@@ -10,3 +10,4 @@
 - [Luiza Garcia](https://github.com/Luizagso)
 - [Isac Gonçalves Cunha](https://github.com/Caquizeraa)
 - [Vinícius Souza Arantes](https://github.com/vinicius-arantes)
+- [Enzo Velo](https://github.com/K3yNet)
